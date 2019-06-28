@@ -1,0 +1,19 @@
+#Name of your Plugin.
+name: ExamplePlugin
+#The API of the latest PMMP.
+api:
+ - 3.3 0
+ - 3.0.0
+ - 4.0.0
+#Where the main is at.
+main: KeviinGamiing\main
+#The version of your plugin.
+version: 1.0.0
+#description of your Plugin.
+description: Example Plugin for Pocketmine
+#Author of the plugin.
+
+#the Commands.
+commands:
+  example:
+    description: Example Command
