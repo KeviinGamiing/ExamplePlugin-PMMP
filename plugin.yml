@@ -6,7 +6,7 @@ api:
  - 3.0.0
  - 4.0.0
 #Where the main is at.
-main: KeviinGamiing\main
+main: ExamplePlugin\main
 #The version of your plugin.
 version: 1.0.0
 #description of your Plugin.
