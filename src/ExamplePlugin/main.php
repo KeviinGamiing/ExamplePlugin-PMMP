@@ -12,7 +12,7 @@ use pocketmine\command\CommandSender;
 class main extends PluginBase {
     
     public function onLoad(): void{
-        $this->getLogger()->info(C::GOLD . "Loading Calypso Core..." . "Plugin was made by KeviinGamiing");
+        $this->getLogger()->info(C::GOLD . "Loading is now Loading");
     }
     public function onEnable(): void{
         $this->getLogger()->info(C::GREEN . "Plugin has been Enabled!");
